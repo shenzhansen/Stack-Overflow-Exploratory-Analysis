@@ -1,5 +1,5 @@
 # Stack-Overflow-Exploratory-Analysis
-The final project contributed by zs2390, yl4020 and yw3167 for Big Data Analytics EECS 6893
+The final project contributed by Zhansen Shen, Yuhan Liu and Yuting Wang for Big Data Analytics EECS 6893
 
 1. Overview
 This is an auto-tagging system which can first realize auto tagging, this is a user-friendly feature to make it easier for user to decide while reducing mistakenly classified tags. Another objective is to find out factors and analyze components leading to a high-score question based on linear regression
